@@ -16,6 +16,6 @@ Start the project with `npm start`
 
 ### Live Demo
 
-This project is live on https://payee.netlify.app \
+This project is live on https://payee.netlify.app
 
 I hope this helps you, good luck!
