@@ -19,7 +19,7 @@ function LandingPage() {
                   <p>...your one-stop payment solution.</p>
                   <div className="col-sm-6 d-grid gap-2 mb-3">
                     <Button
-                      name="Send Funds"
+                      name="Make payment"
                       func={() => history.push(PAYMENT)}
                       styleClass="btn-primary"
                     />
