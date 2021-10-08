@@ -14,8 +14,8 @@ Create a Paystack account and obtain your Secret, Public API keys\
 Copy the contents of .env.example into your .env file and fill in your API keys.\
 Start the project with `npm start`
 
-### Testing
+### Live Demo
 
-This project is live on https://payee.netlify.app\
+This project is live on https://payee.netlify.app \
 
 I hope this helps you, good luck!
